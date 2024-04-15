@@ -16,10 +16,6 @@ Add more
 
 This is for branch1 - rebase - RB-a
 
-<<<<<<< HEAD
 This is for branch1 - rebase - RB-b
 
 -- This is done by the main
-=======
--- add somehting - for testing rebase - RB-B
->>>>>>> 1a2b914 (B)
